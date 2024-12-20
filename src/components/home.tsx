@@ -19,7 +19,7 @@ function Home() {
                     </div>
 
                     <div className="button mt-14">
-                        <a className="px-12 py-5 rounded-2xl background-quaternary text-montserrat text-white" href="#">Entre em Contato</a>
+                        <a className="px-12 py-5 rounded-2xl background-quaternary text-montserrat text-white" href="#contact">Entre em Contato</a>
                     </div>
 
                 </div>
