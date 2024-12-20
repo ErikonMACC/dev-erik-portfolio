@@ -29,7 +29,7 @@ function AboutMe() {
                         <a href="#"><img src={IconGithub} alt="github" /></a>
                     </div>
                 </div>
-                <div className="image col-start-9 col-span-4"><img src={MeAgain} alt="erik-machado-lopes-again" /></div>
+                <div className="image col-start-9 col-span-4"><img className="w-full" src={MeAgain} alt="erik-machado-lopes-again" /></div>
             </div>
         </>
     );

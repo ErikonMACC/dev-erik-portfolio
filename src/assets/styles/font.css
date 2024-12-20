@@ -77,6 +77,10 @@
 }
 
 .legend-portfolio{
-    margin-bottom: -12px;
+    margin-bottom: -10px;
     font-weight: 600;
+}
+
+.my-name {
+    margin-bottom: -10px;
 }

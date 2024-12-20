@@ -20,10 +20,10 @@ function Portfolio() {
                             <div className="text-content col-start-6 col-span-7 pb-3">
                                 <p className="text-poppins text-color-terniary legend-portfolio">PROJETO 1</p>
                                 <p className="title-montserrat text-white">FINANVEST</p>
-                                <p className="text-inter text-color-primary mt-2">
+                                <p className="text-inter text-color-primary mt-1">
                                     Lorem ipsum dolor sit amet. Non ducimus voluptate non nobis maxime est facere accusantium aut illum commodi ut incidunt dolores ut nisi voluptatem. Est ullam quaerat ut voluptatum eaque ut culpa fuga At voluptatem alias. Eum voluptatem quis ab sequi sunt vel neque exercitationem et ipsa error.
                                 </p>
-                                <div className="button mt-9">
+                                <div className="button mt-14">
                                     <a className="px-8 py-4 rounded-2xl background-quaternary text-montserrat text-white shadow-xl" href="#">Visitar Website <ArrowRight className="inline-block ml-2.5"/></a>
                                 </div>
                             </div>
@@ -33,10 +33,10 @@ function Portfolio() {
                             <div className="text-content col-span-7 pb-3">
                                 <p className="text-poppins text-color-terniary legend-portfolio">PROJETO 2</p>
                                 <p className="title-montserrat text-white">Jogo Corrida Feudal</p>
-                                <p className="text-inter text-color-primary mt-2">
+                                <p className="text-inter text-color-primary mt-1">
                                     Lorem ipsum dolor sit amet. Non ducimus voluptate non nobis maxime est facere accusantium aut illum commodi ut incidunt dolores ut nisi voluptatem. Est ullam quaerat ut voluptatum eaque ut culpa fuga At voluptatem alias. Eum voluptatem quis ab sequi sunt vel neque exercitationem et ipsa error.
                                 </p>
-                                <div className="button mt-9">
+                                <div className="button mt-14">
                                     <a className="px-8 py-4 rounded-2xl background-quaternary text-montserrat text-white shadow-xl" href="#">Visitar Website <ArrowRight className="inline-block ml-2.5"/></a>
                                 </div>
                             </div>
@@ -48,10 +48,10 @@ function Portfolio() {
                             <div className="text-content col-start-6 col-span-7 pb-3">
                                 <p className="text-poppins text-color-terniary legend-portfolio">PROJETO 3</p>
                                 <p className="title-montserrat text-white">Technotec - Site de Artigo</p>
-                                <p className="text-inter text-color-primary mt-2">
+                                <p className="text-inter text-color-primary mt-1">
                                     Lorem ipsum dolor sit amet. Non ducimus voluptate non nobis maxime est facere accusantium aut illum commodi ut incidunt dolores ut nisi voluptatem. Est ullam quaerat ut voluptatum eaque ut culpa fuga At voluptatem alias. Eum voluptatem quis ab sequi sunt vel neque exercitationem et ipsa error.
                                 </p>
-                                <div className="button mt-9">
+                                <div className="button mt-14">
                                     <a className="px-8 py-4 rounded-2xl background-quaternary text-montserrat text-white shadow-xl" href="#">Visitar Website <ArrowRight className="inline-block ml-2.5"/></a>
                                 </div>
                             </div>
@@ -62,10 +62,10 @@ function Portfolio() {
                             <div className="text-content col-span-7 pb-3">
                                 <p className="text-poppins text-color-terniary legend-portfolio">PROJETO 4</p>
                                 <p className="title-montserrat text-white">Loja de Livros Harry Potter</p>
-                                <p className="text-inter text-color-primary mt-2">
+                                <p className="text-inter text-color-primary mt-1">
                                     Lorem ipsum dolor sit amet. Non ducimus voluptate non nobis maxime est facere accusantium aut illum commodi ut incidunt dolores ut nisi voluptatem. Est ullam quaerat ut voluptatum eaque ut culpa fuga At voluptatem alias. Eum voluptatem quis ab sequi sunt vel neque exercitationem et ipsa error.
                                 </p>
-                                <div className="button mt-9">
+                                <div className="button mt-14">
                                     <a className="px-8 py-4 rounded-2xl background-quaternary text-montserrat text-white shadow-xl" href="#">Visitar Website <ArrowRight className="inline-block ml-2.5"/></a>
                                 </div>
                             </div>
