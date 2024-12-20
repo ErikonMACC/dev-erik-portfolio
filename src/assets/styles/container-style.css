@@ -1,0 +1,21 @@
+@import "../../index.css";
+
+.container-box {
+    background-color: #161616;
+}
+
+.container-main {
+    background-color: #202020;
+}
+
+.box-shadow-container {
+    box-shadow: rgba(0, 0, 0, 0.7) 0px 5px 15px;
+}
+
+.box-shadow-main {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+
+#header ,#home, #aboutMe, #contact {
+    scroll-margin-top: 80px;
+}

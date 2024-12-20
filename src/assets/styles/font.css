@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Fonts style */
+/* Montserrat */
+.title-montserrat {
+    font-family: 'Montserrat';
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.subtitle-montserrat {
+    font-family: 'Montserrat';
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.text-montserrat {
+    font-family: 'Montserrat';
+    font-size: 16x;
+    font-weight: 400;
+}
+
+.legend-montserrat {
+    font-family: 'Montserrat';
+    font-size: 12px;
+    font-weight: 300;
+}
+
+/* Poppins */
+.title-poppins {
+    font-family: 'Poppins';
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.subtitle-poppins {
+    font-family: 'Poppins';
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.text-poppins {
+    font-family: 'Poppins';
+    font-size: 16x;
+    font-weight: 400;
+}
+
+.legend-poppins {
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 300;
+}
+
+/* Poppins */
+.title-inter {
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.subtitle-inter {
+    font-family: 'Inter';
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.text-inter {
+    font-family: 'Inter';
+    font-size: 16x;
+    font-weight: 400;
+}
+
+.legend-inter {
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.legend-portfolio{
+    margin-bottom: -12px;
+    font-weight: 600;
+}

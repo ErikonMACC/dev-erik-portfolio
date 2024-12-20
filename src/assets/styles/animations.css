@@ -1,0 +1,28 @@
+@import "../../index.css";
+
+.telephone-content, .email-content, .location-content {
+    cursor: pointer;
+    position: relative;
+    transition: all 1s ease-in-out;
+}
+
+.telephone-content:hover, .email-content:hover, .location-content:hover {
+    opacity:1;
+}
+
+.telephone-content:hover::before,
+.email-content:hover::before,
+.location-content:hover::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--primary-color);
+    z-index: -1;
+    filter: blur(15px); 
+    border-radius: 10px;
+    transition: all 1s ease-in-out;
+    opacity: 0.3; 
+}

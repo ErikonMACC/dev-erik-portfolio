@@ -1,0 +1,29 @@
+@import "../../index.css";
+
+.background-primary {
+    background-color: var(--primary-color);
+}
+
+.background-secondary {
+    background-color: var(--secondary-color);
+}
+
+.background-quaternary {
+    background-color: var(--quaternary-color);
+}
+
+.text-color-primary {
+    color: var(--primary-color);
+}
+
+.text-color-secondary {
+    color: var(--secondary-color);
+}
+
+.text-color-terniary {
+    color: var(--terniary-color)
+}
+
+.text-color-quaternary {
+    color: var(--quaternary-color)
+}
